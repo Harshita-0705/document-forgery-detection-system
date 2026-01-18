@@ -34,3 +34,7 @@ lerna-debug.log*
 # Vite
 .vite
 
+# Backend models
+backend/*.pth
+backend/best_model*.pth
+
